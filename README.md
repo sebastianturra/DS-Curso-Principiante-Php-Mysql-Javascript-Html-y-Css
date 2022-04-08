@@ -1,11 +1,17 @@
 # Curso-Principiante-Php-Mysql-Javascript-Html-y-Css
-Curso gratuito de apoyo para que nutran sus bases en la programación. Aún en desarrollo.
+Curso gratuito de apoyo para que nutrir las bases en la programación. Aún en desarrollo.
 
-Topics
-javascript mysql css php html5
+Topics <br>
+Javascript <br>
+Mysql <br> 
+Css <br> 
+Php <br> 
+Html5 <br>
 
-Contacto
-Correo: sebastianturra@gmail.com
-Linkedin: sebastián-turra-mora-10347b200
-TikTok: stumo_cl
+Contacto <br>
+Sebastian Turra Mora <br>
+Correo: sebastianturra@gmail.com <br>
+Linkedin: https://www.linkedin.com/in/sebastian-turra-mora-10347b200/ <br>
+TikTok: https://www.tiktok.com/@stumo_cl <br>
+
 
