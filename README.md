@@ -1,5 +1,5 @@
 # Curso-Principiante-Php-Mysql-Javascript-Html-y-Css
-Curso gratuito de apoyo para nutrir las bases en la programación. Aún en desarrollo.
+En desarrollo. Curso gratuito de apoyo para nutrir las bases en la programación.
 
 Topics <br>
 Javascript <br>
