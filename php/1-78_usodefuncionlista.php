@@ -11,7 +11,7 @@ $array = array
 );
 
 foreach ($array as $key => $value){
-    list('a' => $a) = $array;
+    list($key => $a) = $array;
     echo "$a";
 }
 ?>
